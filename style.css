@@ -1,0 +1,38 @@
+h1 {
+  color:blue;
+  font-family:helvetica;
+}
+p {
+color:pink;
+}
+h3 {
+  color:blue;
+}
+
+body {
+  background-color: yellow;
+}
+img {
+  border: 5px solid fuchsia;
+  width:50%;
+  height:%
+  margin-left:100px;
+  padding:50px;
+}
+
+#highlight {
+  color: organge;
+  background-color:grey;
+  border: 2px dotted green;
+}
+.top{
+  background-color: red;
+  float: left;
+}
+
+h1{
+  color:black;
+  background: white;
+  font-family:"Gill Sans";
+  text-transform: uppercase;
+}
